@@ -1,10 +1,10 @@
 CSE0001
 
-Name: Arpit Parmar
+Name: Rudraksh Adchitre
 
-Reg. No.: 25BAI11617
+Reg. No.: 25BCG10039
 
-Branch: Computer Science (AI&ML) Engineering
+Branch: Computer Science ( Gaming Teachnology ) Engineering
 
 Institution: VIT Bhopal University
 
